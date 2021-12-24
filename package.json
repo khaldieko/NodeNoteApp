@@ -1,0 +1,23 @@
+{
+  "name": "nodenoteapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node notes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaldieko/notes-app.git"
+  },
+  "author": "khaldieko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaldieko/notes-app/issues"
+  },
+  "homepage": "https://github.com/khaldieko/notes-app#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "yargs": "^17.3.1"
+  }
+}
